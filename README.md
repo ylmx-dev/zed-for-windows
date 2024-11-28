@@ -1,2 +1,2 @@
 # Zed for Windows
-Pre-builded zed editor for Windows from github.com/zed-industries/zed
+Pre-built zed editor for Windows from the [official github repository](github.com/zed-industries/zed)
